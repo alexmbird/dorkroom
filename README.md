@@ -20,6 +20,7 @@ To state the obvious:
 ## Setup
 
 1. Have Python 3 installed.  On a mac with Homebrew that's as simple as `brew install python3`
+
 2. ```
 git clone git@github.com:alexmbird/dorkroom.git
 cd dorkroom
