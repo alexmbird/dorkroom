@@ -27,6 +27,8 @@ cd dorkroom
 pyvenv _venv3
 ```
 
+Simples.
+
 
 ## Running
 
