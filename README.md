@@ -21,11 +21,9 @@ To state the obvious:
 
 1. Have Python 3 installed.  On a mac with Homebrew that's as simple as `brew install python3`
 
-2. ```
-git clone git@github.com:alexmbird/dorkroom.git
-cd dorkroom
-pyvenv _venv3
-```
+2. `git clone git@github.com:alexmbird/dorkroom.git`
+3. `cd dorkroom`
+4. `pyvenv _venv3`
 
 Simples.
 
